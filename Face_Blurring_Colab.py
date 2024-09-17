@@ -9,7 +9,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 #from google.colab (or elsewhere) import sample images
-image_location = '/content/sample_data/M214_1015935974_0048_0007.jpg' #Archive_image_test.jpg
+image_location = 'M214_1015935974_0001_0002.jpg' #Archive_image_test.jpg
 image = Image.open(image_location)
 plt.imshow(image)
 plt.show()
