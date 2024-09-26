@@ -12,4 +12,7 @@ This repository walks through a Face Detection and Blurring Pipeline applied to 
 - OpenCV
 - Matplotlib
 
+# Outputs
+
+![Fig 10](https://github.com/user-attachments/assets/acca2384-7315-40c5-b637-f9a7befa0724)
 
