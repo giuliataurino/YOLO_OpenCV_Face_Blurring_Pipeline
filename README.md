@@ -10,8 +10,8 @@ This repository walks through a Face Detection and Blurring Pipeline applied to 
 
 # Libraries used
 
-- YOLOFace
 - PIL
+- YOLOFace
 - OpenCV
 - Matplotlib
 
