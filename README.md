@@ -1,4 +1,4 @@
-# YOLO_OpenCV_Face_Blurring_Pipeline
+# Boston Globe Photo-Archive Project (BGPAP) Face Blurring Pipeline
 
 # Overview
 
